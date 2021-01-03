@@ -1,0 +1,10 @@
+Package: com.fxsheep.fbwrite
+Name: fb_write
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A tool to write text to the iOS screen by directly modifying the pixel information in the 
+framebuffer
+Maintainer: fxsheep <sunxiaoyang2003@gmail.com>
+Author: Billy-Ellis
+Section: System
+Tag: role::hacker
